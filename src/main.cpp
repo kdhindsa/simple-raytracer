@@ -1,4 +1,8 @@
 
+/*
+    Source: http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work
+*/
+
 
 #include <cstdlib> 
 #include <cstdio> 
